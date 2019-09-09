@@ -5,8 +5,8 @@
     include_once './header.html';
     ?>
 <!-- Start of Content -->
-<!-- Heading -->
-<section id="heading" class="text-center">
+<!-- Home -->
+<section id="home" class="text-center">
     <div class="row 5 my-4">
         <div class="col-md-4 offset-2">
             <img src="./images/desktop.png" alt="desktop-photo">
@@ -23,7 +23,7 @@
         </div>
     </div>
 </section>
-<!-- End Heading -->
+<!-- End Home -->
 
 <!-- What We Do -->
 <section id="what-we-do" class="text-center bg-086375 py-4">
@@ -43,8 +43,10 @@
 <section id="pricing">
     <div class="pricing-header px-3 py-3 pt-md-5 pb-md-4 mx-auto text-center">
         <h1 class="display-4">Pricing</h1>
-        <p class="lead">Quickly build an effective pricing table for your potential customers with this Bootstrap example.
-            It's built with default Bootstrap components and utilities with little customization.</p>
+        <p class="lead col-md-6 offset-3">
+            Our affordable pricing structure is always open but if you have a interest in a custom integration or project 
+            idea we have a team of amazing engineers ready to listen.
+        </p>
     </div>
     <div class="container">
         <div class="row mb-3 text-center">
@@ -71,7 +73,7 @@
                         <h4 class="my-0 font-weight-normal">Pro</h4>
                     </div>
                     <div class="card-body">
-                        <h1 class="card-title pricing-card-title">$15 <small class="text-muted">/ mo</small></h1>
+                        <h1 class="card-title pricing-card-title">$19 <small class="text-muted">/ mo</small></h1>
                         <ul class="list-unstyled mt-3 mb-4">
                             <li>20 users included</li>
                             <li>10 GB of storage</li>

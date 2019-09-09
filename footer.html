@@ -4,5 +4,30 @@
 
             </div>
     </footer>
+    
+    <script>
+        $('.nav-link').click(function() {
+                $('.nav-link').removeClass('active');
+                $(this).addClass('active');
+
+                var full_url = this.href;
+                var parts = full_url.split("#");
+                var trgt = parts[1];
+                var target_offset = $("#" + trgt).offset();
+                var target_top = target_offset.top;
+
+                $('html,body').animate({
+                    scrollTop: target_top -65
+                }, 1000);
+                return false;
+        });
+
+        $('.navbar-brand').click(function() {
+                $('html,body').animate({
+                    scrollTop: window.scrollTo(0,0)
+                }, 1000);
+                return false;
+        });
+    </script>
 </body>
 </html>
