@@ -13,7 +13,7 @@
         </div>
         <div class="col-md-4 py-5">
             <h1 class="display-4">Know Your Prospects</h1>
-            <p>
+            <p class="lead">
                 Net worth and Lead Qualification
             
                 No need to speak to a sales person
@@ -104,8 +104,17 @@
         </div>
     </div>
 </section>
-
 <!-- End Pricing -->
+
+<!-- Contact -->
+<section id="contact" class="mb-5 mx-auto text-center">
+    <h1 class="display-4">Contact Us</h1>
+        <p class="lead col-md-6 offset-3">
+            Our affordable pricing structure is always open but if you have a interest in a custom integration or project 
+            idea we have a team of amazing engineers ready to listen.
+        </p>
+</section>
+<!-- End Contact -->
 
 <!-- End of Content -->
 <?php
