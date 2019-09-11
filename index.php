@@ -33,7 +33,7 @@
             <p class="mt-4 lead">We help identify your top prospects. Lets be honest you need money, and they have it. The problem lies in who to ask and how much to ask for.</p>
         </div>
         <div class="col-md-4">
-            <img class="what-we-do-img" src="./images/moneysearch.jpg" alt="moneysearch">
+            <img class="what-we-do-img" src="./images/ds-Datasets-2019-infographic.png" alt="moneysearch">
         </div>
     </div>
 </section>
