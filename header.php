@@ -23,7 +23,7 @@
     <!--
         <link rel="stylesheet" href="./bootstrap/css/bootstrap.min.css">
     -->
-        <link rel="stylesheet" href="./css/main.css">
+    <link rel="stylesheet" href="css/main.css">
     
     <title>Know Your Prospects</title>
 </head>
@@ -469,8 +469,9 @@
                     <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" id="navbarLandings" data-toggle="dropdown" href="#"
                             aria-haspopup="true" aria-expanded="false">
-                            Landings
+                            Products
                         </a>
+                        <?php /*
                         <div class="dropdown-menu dropdown-menu-xl p-0" aria-labelledby="navbarLandings">
                             <div class="row no-gutters">
                                 <div class="col-12 col-lg-6">
@@ -556,6 +557,7 @@
                                 </div>
                             </div> <!-- / .row -->
                         </div>
+                        <?php */ ?>
                     </li>
                     <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" id="navbarPages" data-toggle="dropdown" href="#"
@@ -745,7 +747,7 @@
     
                                     <!-- Icon -->
                                     <div class="icon icon-sm text-primary">
-                                        <?xml version="1.0" encoding="UTF-8"?>
+                                        <?php /*<?xml version="1.0" encoding="UTF-8"?>*/ ?>
                                         <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1"
                                             xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
                                             <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
@@ -788,7 +790,7 @@
     
                                     <!-- Icon -->
                                     <div class="icon icon-sm text-primary">
-                                        <?xml version="1.0" encoding="UTF-8"?>
+                                        <?php //<?xml version="1.0" encoding="UTF-8"?>
                                         <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1"
                                             xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
                                             <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
@@ -826,7 +828,7 @@
     
                                     <!-- Icon -->
                                     <div class="icon icon-sm text-primary">
-                                        <?xml version="1.0" encoding="UTF-8"?>
+                                        <?php //<?xml version="1.0" encoding="UTF-8"?>
                                         <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1"
                                             xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
                                             <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
