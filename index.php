@@ -21,8 +21,8 @@
             
             <!-- Heading -->
             <h1 class="display-3 text-center text-md-left">
-              Welcome to <span class="text-primary">Donorsearch</span>. <br>
-              Prospect confidently!
+              Welcome to <span class="text-primary">Know Your Prospects</span>. <br>
+              Reseach confidently!
             </h1>
 
             <!-- Text -->
@@ -264,10 +264,10 @@
               </div>
               
               <!-- Image -->
-              <div class="img-skewed">
+              <div class="img-skewed img-skewed-left">
 
                 <!-- Image -->
-                <img src="images/ds-Datasets-2019-infographic.png" class="screenshot img-fluid img-skewed-item" alt="...">
+                <img src="assets/img/screenshots/desktop/dashkit-alt-dark.jpg" class="screenshot img-fluid img-skewed-item" alt="...">
                 
               </div>
               
@@ -549,7 +549,7 @@
 
                 <!-- Heading -->
                 <h4 class="text-white">
-                  Can I use Donorsearch to find hidden prospects in my donor database?
+                  Can I use Know Your Prospects to find hidden prospects in my donor database?
                 </h4>
 
                 <!-- Text -->
